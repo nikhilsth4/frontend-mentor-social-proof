@@ -1,4 +1,6 @@
-# Frontend Mentor - Social proof section
+Live-site-url :https://social-proof-f.netlify.app/
+
+# Frontend Mentor - Social proof section (Grid CSS only)
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
